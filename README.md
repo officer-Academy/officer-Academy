@@ -4,6 +4,8 @@ author by- Gunjan sharma
 venue - officer academy
 </br>
 "stop thinking start working"
+</br>
+"honesty is the best policy"
 
 
 <!--
